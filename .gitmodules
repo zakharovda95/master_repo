@@ -1,0 +1,8 @@
+[submodule "BeautySaloonTgBot"]
+	path = BeautySaloonTgBot
+	url = https://github.com/zakharovda95/BeautySaloonTgBot.git
+	branch = master
+[submodule "HelperClassLib"]
+	path = HelperClassLib
+	url = https://github.com/zakharovda95/HelperClassLib.git
+	branch = master
