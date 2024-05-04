@@ -2,7 +2,7 @@
 
 declare -A branches=(
     ["HelperClassLib"]="master"
-    ["BeautySaloonTgBot"]="master"
+    ["ModuleBot"]="master"
     # Добавьте сюда другие подмодули и ветки при необходимости
 )
 
