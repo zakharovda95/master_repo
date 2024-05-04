@@ -1,5 +1,7 @@
 ﻿#!/bin/bash
 
+git submodule update --init --recursive --remote
+
 declare -A branches=(
     ["HelperClassLib"]="master"
     ["ModuleBot"]="master"
