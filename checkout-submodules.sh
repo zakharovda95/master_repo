@@ -5,6 +5,7 @@ git submodule update --init --recursive --remote
 declare -A branches=(
     ["HelperClassLib"]="master"
     ["ModuleBot"]="master"
+    ["cv_main"]="master"
     # Добавьте сюда другие подмодули и ветки при необходимости
 )
 

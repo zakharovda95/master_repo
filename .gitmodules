@@ -6,3 +6,7 @@
 	path = ModuleBot
 	url = https://github.com/zakharovda95/ModuleBot.git
 	branch = master
+[submodule "cv_main"]
+	path = cv_main
+	url = https://github.com/zakharovda95/cv_main.git
+	branch = master
